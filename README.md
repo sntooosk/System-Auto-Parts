@@ -11,10 +11,16 @@ Este é um sistema de Ponto de Venda (PDV) desenvolvido em Java, utilizando o am
 3. **Gestão de Estoque:** Permite o controle do estoque, incluindo adição de novos produtos, atualização de quantidades e remoção de itens obsoletos.
 
 
-**Pré-requisitos:**
 
-- NetBeans IDE (https://netbeans.apache.org/)
-- MySQL Server (https://www.mysql.com/)
+## • Tecnologias e Linguagens
+
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height="50" width="55"/>
+</div>
+
 
 **Instruções de Instalação:**
 
@@ -29,5 +35,15 @@ Este é um sistema de Ponto de Venda (PDV) desenvolvido em Java, utilizando o am
 
 1. Faça login no sistema utilizando as credenciais fornecidas.
 3. Cadastre novos produtos, realize vendas e gerencie o estoque conforme necessário.
+
+## • Referências e documentações
+
+| **[Java](https://docs.oracle.com/en/java/javase/17/)** 
+| **[MySQL](https://dev.mysql.com/doc/)** |
+
+## • Observações
+
+**⚠️ Projeto com finalidades educativas. Sem fins lucrativos. ⚠️**
+
 
 
